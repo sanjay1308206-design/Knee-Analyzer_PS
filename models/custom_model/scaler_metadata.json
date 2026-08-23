@@ -1,0 +1,51 @@
+{
+  "features": [
+    "age_cleaned",
+    "is_age_missing",
+    "outer_meniscus_p1_mm",
+    "middle_meniscus_p2_mm",
+    "inner_meniscus_p3_mm",
+    "femur_ap_mm",
+    "femur_ml_mm",
+    "tibia_ap_mm",
+    "tibia_ml_mm"
+  ],
+  "means": {
+    "age_cleaned": 61.20778518518518,
+    "is_age_missing": 0.03711111111111111,
+    "outer_meniscus_p1_mm": 4.0117725925925924,
+    "middle_meniscus_p2_mm": 4.441405555555556,
+    "inner_meniscus_p3_mm": 3.813918888888889,
+    "femur_ap_mm": 54.6159762962963,
+    "femur_ml_mm": 70.54764666666667,
+    "tibia_ap_mm": 46.321670740740736,
+    "tibia_ml_mm": 72.06758962962962
+  },
+  "stds": {
+    "age_cleaned": 9.85814884142697,
+    "is_age_missing": 0.1890375625878052,
+    "outer_meniscus_p1_mm": 0.47659969657709744,
+    "middle_meniscus_p2_mm": 0.5133877145117114,
+    "inner_meniscus_p3_mm": 0.41462679147963805,
+    "femur_ap_mm": 4.649522910324692,
+    "femur_ml_mm": 6.249181433619008,
+    "tibia_ap_mm": 4.321562927319063,
+    "tibia_ml_mm": 5.753357994221982
+  },
+  "median_age": 61.25,
+  "gender_mapping": {
+    "0": "Female",
+    "1": "Male",
+    "2": "RatherNotToSay / Unknown"
+  },
+  "implant_sizes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}

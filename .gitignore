@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Python cache & virtual environments
+__pycache__/
+backend/app/__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Editor files
+.vscode/
+.idea/
